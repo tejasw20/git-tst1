@@ -1,1 +1,2 @@
 print('tejaswihi')
+print("rani")
